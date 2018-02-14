@@ -1,0 +1,16 @@
+{
+  "name": "uims_layout-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified, that's fine!\" && exit 0"
+  },
+  "author": "malagoda",
+  "dependencies": {
+    "config": "^1.26.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "node-tailor": "^3.3.0"
+  }
+}
