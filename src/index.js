@@ -19,7 +19,6 @@ module.exports = {
   filterRequestHeaders: (attributes, request) => {
     const { public: publicFragment } = attributes
     const { headers = {} } = request
-    console.log(headers)
 
     // Headers are not forwarded to public fragment for security reasons
     return publicFragment
