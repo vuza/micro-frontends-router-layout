@@ -20,6 +20,15 @@ nav {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+a {
+  text-decoration: none;
+  color: #ff6961;
+}
+
+a:hover {
+  color: black;
+}
+
 main {
     padding: 4em;
 }
