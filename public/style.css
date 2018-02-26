@@ -17,6 +17,10 @@ main h2 {
   margin-bottom: .4em;
 }
 
+main p {
+  margin-bottom: .4em
+}
+
 nav {
     padding: 4em;
     border-bottom: 1px solid black;
