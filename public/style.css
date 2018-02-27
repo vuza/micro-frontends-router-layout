@@ -80,3 +80,16 @@ footer {
     padding: 4em;
     border-top: 1px solid black;
 }
+
+.cite {
+  box-sizing: border-box;
+  padding-left: .4em;
+  border-left: .1em solid black;
+  font-style: italic;
+  display: block;
+}
+
+.citeOrigin {
+  display: block;
+  text-align: right;
+}
