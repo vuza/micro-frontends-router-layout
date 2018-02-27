@@ -93,3 +93,7 @@ footer {
   display: block;
   text-align: right;
 }
+
+.important {
+  font-weight: bold;
+}
